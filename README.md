@@ -1,11 +1,13 @@
 🚖 Ola Ride Analytics: Comprehensive Booking & Revenue Dashboard 📊
-(Insert a photo of your Power BI dashboard here by uploading an image to GitHub and pasting the link below)
 
-https://github.com/akhileshkamble1506/OLA-PROJECT/blob/main/OLA%20POWER%20BI%20DASHBORD/Screenshot%202026-08-06%20184705.png
+(Insert a photo of your Power BI dashboard here by uploading an image to GitHub and pasting the link below)
+<img width="1272" height="712" alt="Screenshot 2026-08-06 184705" src="https://github.com/user-attachments/assets/cfeaca4b-9383-4afd-b030-3e51d0ab955d" />
+
 
 A dynamic, interactive Power BI data visualization tool built to explore operational ride-sharing data—focusing on booking success rates, vehicle-specific performance, revenue channels, and cancellation trends.
 
 🎯 Short Description / Purpose
+
 The Ola Analytics Dashboard is a visually engaging Power BI report designed to help users analyze over 100,000 ride bookings and 57M in booking value recorded during July 2024. The dashboard highlights critical business metrics such as payment method preferences (Cash vs. UPI), specific driver and customer cancellation reasons, and vehicle category ratings. This tool is intended for use by business analysts, operations managers, and data-driven strategists who seek to understand ride-sharing efficiency, revenue streams, and customer satisfaction.
 
 🛠️ Tech Stack
