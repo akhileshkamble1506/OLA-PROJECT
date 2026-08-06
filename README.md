@@ -1,6 +1,5 @@
 🚖 Ola Ride Analytics: Comprehensive Booking & Revenue Dashboard 📊
 
-(Insert a photo of your Power BI dashboard here by uploading an image to GitHub and pasting the link below)
 <img width="1272" height="712" alt="Screenshot 2026-08-06 184705" src="https://github.com/user-attachments/assets/cfeaca4b-9383-4afd-b030-3e51d0ab955d" />
 
 
